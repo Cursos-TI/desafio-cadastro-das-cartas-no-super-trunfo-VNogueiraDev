@@ -65,7 +65,7 @@ int main (){
       printf ("Estado: %s\n", estado);
       printf ("Pontos turísticos: %d\n", pontos_turisticos);
       printf ("População: %d habitantes\n",populacao);
-      printf ("Área: %.2fKM²\n", area);
+      printf ("Área: %.2f KM²\n", area);
       printf ("PIB: R$%.2f\n", pib);
 
       printf("------------------------------------------------------\n");    
@@ -75,8 +75,7 @@ int main (){
       printf ("Estado: %s\n", estado2);
       printf ("Pontos turísticos: %d\n", pontos_turisticos2);
       printf ("População: %d habitantes\n",populacao2);
-      printf ("Área: %.2fKM²\n", area2);
+      printf ("Área: %.2f KM²\n", area2);
       printf ("PIB: R$%.2f\n", pib2);
-
 
 }
