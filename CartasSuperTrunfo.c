@@ -11,7 +11,7 @@ int main (){
 
       int pontos_turisticosR, populacaoR, areaR, pibR,densidadeR, capitaR, superpoderR;
 
-      //////////////////////////////////////////////////////////////////////////////
+      ///////////////////////////////////////////////////////////////////////////////
 
       printf ("----------Boas vindas ao super trunfo países!----------\n");
       printf ("Para começar, vamos inserir as informações das cartas.\n");
