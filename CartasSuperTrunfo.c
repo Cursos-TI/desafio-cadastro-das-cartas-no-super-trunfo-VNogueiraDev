@@ -84,7 +84,7 @@ int main (){
       /////////////////////////////////////////////////////////////////////////////////////
 
       printf ("-------------------------------------------------------------------\n");    
-      printf ("*Tudo pronto! Aqui estão os dados das suas cartas cadastradas:*\n");
+      printf ("Tudo pronto! Aqui estão os dados das suas cartas cadastradas:\n");
 
       printf ("******** Carta 1 ********\n");
     
